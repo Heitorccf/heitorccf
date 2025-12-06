@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="imgs/abstract.svg" alt="Abstrato">
+  <img src="imgs/clouds.svg" alt="Nuvens">
 </div>
